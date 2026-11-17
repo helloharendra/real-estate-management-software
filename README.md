@@ -14,6 +14,22 @@ Whether you operate a real estate agency, manage multiple properties, or want to
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Properties</b><br><br><img src="screenshots/2-properties.png" alt="Properties"></td>
+    <td align="center" width="50%"><b>Leads</b><br><br><img src="screenshots/3-leads.png" alt="Leads"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is Real Estate Management Software?
 
 Real Estate Management Software is a digital platform designed to help property businesses organize and manage their day-to-day operations.
@@ -414,17 +430,3 @@ Website: https://nayaprayog.com/
 © Naya Prayog Technologies. All rights reserved.
 
 This repository is a product and service showcase. It does not distribute proprietary application source code or grant an open-source license.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Properties</b><br><br><img src="screenshots/2-properties.png" alt="Properties"></td>
-    <td align="center" width="50%"><b>Leads</b><br><br><img src="screenshots/3-leads.png" alt="Leads"></td>
-  </tr>
-</table>
